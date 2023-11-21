@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anower120&label=Profile%20views&color=0e75b6&style=flat" alt="anower120" /> </p>
 
-- 🔭 I work on **materials modelling, high-performance computing, machine learning and artificial intelligence**
+- 🔭 I work on **materials modelling, high-performance computing modelling, machine learning and artificial intelligence**
 
-- 🌱 I am currently learning **Generative AI**
+- 🌱 I am currently learning **fine-tuning of LLMs**
 
-- 👯 I am a passionate **LLMs and Generative AI**
+- 👯 I am a passionate **in accelerating materials discovery using LLMs and Generative AI**
 
 - 💬 Ask me about **materials modelling, ML/AI and Generative AI**
 
