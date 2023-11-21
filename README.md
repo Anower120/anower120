@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/anower120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="anower120" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/md-anower-hossain-phd-3b677b13/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/md-anower-hossain-phd-3b677b13/" height="30" width="40" /></a>
 <a href="https://kaggle.com/anower" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="anower" height="30" width="40" /></a>
-<a href="https://fb.com/anower120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anower120" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
